@@ -1,0 +1,2 @@
+#!/bin/bash
+cd $HOME && open /System/Library/CoreServices/Finder.app .
