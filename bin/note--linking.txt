@@ -1,0 +1,8 @@
+cd /Users/apollotang/_x_conf/custom-scripts/bin
+
+ln -s /Users/apollotang/_x_conf/custom-scripts/scripts-appified/scripts/appify.sh ./ggg-appify
+
+ln -s /Users/apollotang/_x_conf/custom-scripts/scripts/decrypt.sh ./ggg-decrypt
+ln -s /Users/apollotang/_x_conf/custom-scripts/scripts/encrypt.sh ./ggg-encrypt
+
+
