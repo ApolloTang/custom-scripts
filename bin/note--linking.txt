@@ -5,4 +5,5 @@ ln -s /Users/apollotang/_x_conf/custom-scripts/scripts-appified/scripts/appify.s
 ln -s /Users/apollotang/_x_conf/custom-scripts/scripts/decrypt.sh ./ggg-decrypt
 ln -s /Users/apollotang/_x_conf/custom-scripts/scripts/encrypt.sh ./ggg-encrypt
 
+ln -s /Users/apollotang/_x_conf/custom-scripts/scripts/kebab-case-all-file-in-a-dir.sh ./ggg-kebab-case-all-file-in-a-dir
 
