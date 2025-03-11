@@ -7,3 +7,4 @@ ln -s /Users/apollotang/_x_conf/custom-scripts/scripts/encrypt.sh ./ggg-encrypt
 
 ln -s /Users/apollotang/_x_conf/custom-scripts/scripts/kebab-case-all-file-in-a-dir.sh ./ggg-kebab-case-all-file-in-a-dir
 
+ln -s /Users/apollotang/_x_conf/custom-scripts/scripts/edit-in-cot.sh ./ggg-edit
